@@ -1,0 +1,46 @@
+Essential BASIC Commands
+
+| Command      | Purpose                | Example           |
+| ------------ | ---------------------- | ----------------- |
+| `PRINT`      | Display text           | `PRINT "HELLO"`   |
+| `INPUT`      | Get user input         | `INPUT A`         |
+| `LET`        | Assign variable        | `LET A=5`         |
+| `IF...THEN`  | Condition              | `IF A>5 THEN 100` |
+| `GOTO`       | Jump to line           | `GOTO 10`         |
+| `GOSUB`      | Call subroutine        | `GOSUB 200`       |
+| `RETURN`     | Return from subroutine | `RETURN`          |
+| `FOR...NEXT` | Loop                   | `FOR I=1 TO 10`   |
+| `REM`        | Comment                | `REM MY PROGRAM`  |
+| `END`        | Stop program           | `END`             |
+| `DATA`       | Store values           | `DATA 1,2,3`      |
+| `READ`       | Read DATA              | `READ A`          |
+| `RESTORE`    | Reset DATA pointer     | `RESTORE`         |
+| `DIM`        | Create arrays          | `DIM A(10)`       |
+| `RND`        | Random numbers         | `RND(1)`          |
+
+PC-BASIC System Commands
+
+| Command       | Purpose                  |
+| ------------- | ------------------------ |
+| `RUN`         | Run program              |
+| `LIST`        | Show code                |
+| `NEW`         | Clear program            |
+| `SAVE "NAME"` | Save program             |
+| `LOAD "NAME"` | Load program             |
+| `FILES`       | Show saved files         |
+| `DELETE`      | Delete lines             |
+| `EDIT`        | Edit line                |
+| `CONT`        | Continue stopped program |
+
+Important BASIC Functions
+
+| Function   | Use              |
+| ---------- | ---------------- |
+| `INT()`    | Integer          |
+| `ABS()`    | Absolute value   |
+| `CHR$()`   | ASCII character  |
+| `LEN()`    | String length    |
+| `LEFT$()`  | Left substring   |
+| `RIGHT$()` | Right substring  |
+| `MID$()`   | Middle substring |
+
