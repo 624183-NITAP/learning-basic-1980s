@@ -5,8 +5,7 @@ A collection of retro BASIC programs, experiments, and notes inspired by 1980s h
 
 ## Tools
 - PC-BASIC
-- QB64
-- BASIC Computer Games
+- applesoft basic : https://www.calormen.com/jsbasic/
 
 ## Programs
 - Bunny ASCII Art
@@ -14,5 +13,5 @@ A collection of retro BASIC programs, experiments, and notes inspired by 1980s h
 - Guessing Game
 
 ## Inspiration
-- The 8-Bit Guy
+- The 8-Bit Guy (Youtube)
 - David H. Ahl's BASIC Computer Games
